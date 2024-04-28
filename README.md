@@ -26,9 +26,9 @@
 
 - 아래는 왼쪽부터 순서대로 (1), (2), (3)
   
-<img src="https://github.com/moon-jj/comments_project/assets/162339134/ab5cf0fb-dfd1-402c-9954-08112e7d731c" width="300" height="700">
-<img src="https://github.com/moon-jj/comments_project/assets/162339134/49dff92f-9260-4a6c-8e0e-f6736b3204ae"  width="300" height="700">
-<img src="https://github.com/moon-jj/comments_project/assets/162339134/4bae1ba5-adc7-4183-afb4-1402e4c3b461"  width="300" height="700">
+<img src="https://github.com/moon-jj/comments_project/assets/162339134/ab5cf0fb-dfd1-402c-9954-08112e7d731c" width="250" height="700">
+<img src="https://github.com/moon-jj/comments_project/assets/162339134/49dff92f-9260-4a6c-8e0e-f6736b3204ae"  width="250" height="700">
+<img src="https://github.com/moon-jj/comments_project/assets/162339134/4bae1ba5-adc7-4183-afb4-1402e4c3b461"  width="250" height="700">
 
 - (1) 보다 (2), (3)이  모두  이벤트에  해당되는  시점들에서  이벤트  스코어의  값이  이벤트  상황이  아닌  시점들보다  상대적으로  크게  나타나  이벤트  상황을  잘  구분할  수  있다
 

@@ -66,7 +66,7 @@ pytchat을  활용하여  댓글  데이터  수집 : 5경기 (댓글 5000개 �
 
 #### Prediction results
 
-- window k : +- k interval 내 이벤트 상황 예측
+- window p : +- p interval 내 이벤트 상황 예측
 - data별 : comment_cnt, frequnecy, relative frequency
 - 모델 별 : 국소선형/상수 모델
 

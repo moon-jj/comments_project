@@ -41,7 +41,8 @@ pytchat을  활용하여  댓글  데이터  수집 : 5경기 (댓글 5000개 �
 	: 분당 이벤트 스코어(단어 출현 횟수의 상대 빈도를 이용한 로그 오즈비 활용) = (1분  단위로  나누어진  구간에서  측정한  각  단어의  출현  빈도를  상대출현빈도로  변환) * (로그-오즈비)
 
 
- <img src = "https://github.com/moon-jj/temp2/assets/162339134/eb7f05b2-bbeb-4cbc-b8f6-c6fa53649b29" width="750" height="900">
+ <img src = "https://github.com/moon-jj/comments_project/assets/162339134/d7543f3f-90f0-4f06-b59b-664359ab4e20" width="750" height="900">
+
 
 
 
@@ -62,7 +63,8 @@ pytchat을  활용하여  댓글  데이터  수집 : 5경기 (댓글 5000개 �
 - data 별 : comment_cnt, frequnecy, relative frequency 
 - 모델 별 : 국소선형/상수 모델 
   
-<img src = "https://github.com/moon-jj/temp2/assets/162339134/b1ac7e77-29f3-42bd-98f6-31eefc336251" width="750" height="900">
+<img src = "https://github.com/moon-jj/comments_project/assets/162339134/2f2e0db1-c587-4882-8408-e6a0b02ff389" width="750" height="900">
+
 
 #### Prediction results
 
@@ -71,7 +73,8 @@ pytchat을  활용하여  댓글  데이터  수집 : 5경기 (댓글 5000개 �
 - 모델 별 : 국소선형/상수 모델
 
   
-<img src = "https://github.com/moon-jj/temp2/assets/162339134/09e6c5a2-8fd8-477b-b86a-789f21d8467c" width="750" height="900">
+<img src = "https://github.com/moon-jj/comments_project/assets/162339134/4359882d-e0f6-455f-99ab-cc96dc283a29" width="750" height="900">
+
 
 
 - 이벤트가 발생한 시점에 비해 이벤트가 발생하지 않은 시점이 월등히 많으므로 정확도와 특이도는 높은 반면, 민감도와 정밀도가 낮음
